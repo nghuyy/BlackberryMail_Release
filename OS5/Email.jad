@@ -1,0 +1,49 @@
+Manifest-Version: 1.0
+MIDlet-Version: 2.0.11
+MIDlet-Jar-Size: 17884
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: MailStartup.jar
+RIM-MIDlet-Icon-1-1: res/icons/messages_roll.png,focused
+RIM-COD-Module-Dependencies: net_rim_cldc,Mail
+RIM-MIDlet-Flags-1: 1
+RIM-COD-Module-Name: EMail
+RIM-COD-Size: 20360
+MIDlet-Name: MailStartup
+RIM-COD-Creation-Time: 1626534749
+MIDlet-1: EMail,res/icons/messages.png,
+RIM-COD-URL: EMail.cod
+MIDlet-Description: Email
+RIM-COD-SHA1: ad c8 0b b5 5c eb a4 c4 a0 04 e5 df fb 6d 88 20 1c 87 7c 29
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: VNAPPS.COM
+RIM-MIDlet-Icon-Count-1: 1
+RIM-COD-SHA1-4: 36 bd 73 db 32 f5 d6 8d 9b a0 13 b9 6a c3 3a c6 ed 73 62 32
+RIM-COD-SHA1-3: b4 d6 8e 8a 45 54 13 25 a2 02 aa 4d fe b4 2a b6 37 ab c1 3a
+RIM-COD-SHA1-2: 6b a5 e5 4f 7c 66 7a bf 53 57 06 df 40 ab 50 38 76 90 c6 5f
+RIM-COD-SHA1-1: 6c cd d3 9a 80 af bb 81 19 c8 0e 93 fe d7 e5 13 cf 2f 48 04
+RIM-COD-URL-8: Mail-7.cod
+RIM-COD-URL-7: Mail-6.cod
+RIM-COD-URL-6: Mail-5.cod
+RIM-COD-URL-5: Mail-4.cod
+RIM-COD-URL-4: Mail-3.cod
+RIM-COD-URL-3: Mail-2.cod
+RIM-COD-URL-2: Mail-1.cod
+RIM-COD-Size-8: 3140
+RIM-COD-Size-7: 84672
+RIM-COD-Size-6: 78748
+RIM-COD-Size-5: 86672
+RIM-COD-Size-4: 88776
+RIM-COD-Size-3: 64776
+RIM-COD-Size-2: 64800
+RIM-COD-Size-1: 74836
+RIM-COD-URL-1: Mail.cod
+RIM-Library-Flags: 2
+RIM-COD-SHA1-7: e1 49 b9 f0 a4 bd fc 2f 90 d2 f7 f8 d4 99 d4 40 aa bd aa 8a
+RIM-COD-SHA1-6: 2e 3d 80 01 85 a9 5b 89 33 a0 60 a8 d5 a9 c8 33 a5 65 4c 07
+RIM-COD-SHA1-5: 08 57 51 cd cc de 39 66 0f d1 1d ca c4 46 58 ce 7a f8 6f 2b
+RIM-COD-URL-9: MailOS5.cod
+RIM-COD-Size-9: 5216
+RIM-COD-URL-10: MailOS46.cod
+RIM-COD-Size-10: 3068
+RIM-COD-URL-11: MailOS47.cod
+RIM-COD-Size-11: 9304
