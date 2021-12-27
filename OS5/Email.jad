@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-MIDlet-Version: 2.0.19
-MIDlet-Jar-Size: 17882
+MIDlet-Version: 1.0.26
+MIDlet-Jar-Size: 17879
 MicroEdition-Configuration: CLDC-1.1
 MIDlet-Jar-URL: MailStartup.jar
 RIM-MIDlet-Icon-1-1: res/icons/messages_roll.png,focused
@@ -9,18 +9,18 @@ RIM-MIDlet-Flags-1: 1
 RIM-COD-Module-Name: EMail
 RIM-COD-Size: 20352
 MIDlet-Name: MailStartup
-RIM-COD-Creation-Time: 1626736856
+RIM-COD-Creation-Time: 1640619359
 MIDlet-1: EMail,res/icons/messages.png,
 RIM-COD-URL: EMail.cod
 MIDlet-Description: Email
-RIM-COD-SHA1: 63 32 d8 f7 66 35 44 d9 ac fc 3d a0 9a 4c 0b 57 6b d4 a9 56
+RIM-COD-SHA1: 68 24 ce fc 26 28 5c 97 96 47 7c 7f 53 b9 c1 c2 c4 80 f5 db
 MicroEdition-Profile: MIDP-2.0
 MIDlet-Vendor: VNAPPS.COM
 RIM-MIDlet-Icon-Count-1: 1
-RIM-COD-SHA1-4: 31 02 3e 93 87 c9 2e a1 30 6a df e9 e6 2d 13 e3 10 c1 e3 4d
-RIM-COD-SHA1-3: 04 4f f1 85 d6 68 08 4f 8c 70 54 8e fc a3 00 6b 46 d1 2a c9
-RIM-COD-SHA1-2: f7 cb 26 d5 12 01 9d ad 10 a0 f5 34 d3 30 58 34 69 b4 ba f7
-RIM-COD-SHA1-1: 2d 69 51 81 6d 66 c9 0f d3 a7 38 a3 46 f5 a0 df ad 3e 85 19
+RIM-COD-SHA1-4: 4e f6 19 8b ce fa 4e aa dc 22 b3 36 46 bc 6f 5b 0b 8b 22 af
+RIM-COD-SHA1-3: 49 29 6b 2b 4c 50 42 2e 60 99 c9 1e dc 90 6f 52 7a d8 8c 59
+RIM-COD-SHA1-2: 84 34 6f 2d 82 1a 32 e7 d5 3a 95 92 b3 02 86 a6 72 89 39 17
+RIM-COD-SHA1-1: f1 88 43 88 36 e7 2d c6 30 41 c4 95 e1 44 24 25 cb a3 bb 25
 RIM-COD-URL-8: Mail-7.cod
 RIM-COD-URL-7: Mail-6.cod
 RIM-COD-URL-6: Mail-5.cod
@@ -28,19 +28,19 @@ RIM-COD-URL-5: Mail-4.cod
 RIM-COD-URL-4: Mail-3.cod
 RIM-COD-URL-3: Mail-2.cod
 RIM-COD-URL-2: Mail-1.cod
-RIM-COD-Size-8: 50140
-RIM-COD-Size-7: 78412
-RIM-COD-Size-6: 81472
-RIM-COD-Size-5: 88836
+RIM-COD-Size-8: 47116
+RIM-COD-Size-7: 80068
+RIM-COD-Size-6: 81732
+RIM-COD-Size-5: 89184
 RIM-COD-Size-4: 64600
 RIM-COD-Size-3: 68556
-RIM-COD-Size-2: 67172
+RIM-COD-Size-2: 67676
 RIM-COD-Size-1: 78324
 RIM-COD-URL-1: Mail.cod
 RIM-Library-Flags: 2
-RIM-COD-SHA1-7: 96 63 1d b0 36 26 e3 ee 1a be e4 ee 29 59 ec 0d 2c a8 89 d2
-RIM-COD-SHA1-6: 08 ca b5 21 b8 c2 e2 23 a3 24 1d b8 56 4f 3a 9e 65 6e 9d 24
-RIM-COD-SHA1-5: 94 d9 5e ca 97 a1 3e 02 f7 ea 24 66 83 28 66 ae ea 73 eb 95
+RIM-COD-SHA1-7: d3 50 0b bb c6 f7 8c c4 28 22 a4 0d 3e 22 89 7d 86 97 89 46
+RIM-COD-SHA1-6: 1d 37 60 b9 1b e3 e6 73 48 b7 f7 76 33 38 a6 b4 c1 bc e1 53
+RIM-COD-SHA1-5: b1 c2 a1 ff ba 2a d9 67 64 dc aa 02 d6 ff aa 91 95 3f b0 44
 RIM-COD-URL-9: MailOS5.cod
 RIM-COD-Size-9: 5216
 RIM-COD-URL-10: MailOS46.cod
