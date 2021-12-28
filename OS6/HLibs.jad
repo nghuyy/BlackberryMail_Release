@@ -1,13 +1,13 @@
 Manifest-Version: 1.0
 RIM-COD-Module-Name: HLibs
 RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser
-MIDlet-Jar-Size: 10316
-RIM-COD-Creation-Time: 1640714200
+MIDlet-Jar-Size: 10299
+RIM-COD-Creation-Time: 1640714985
 MIDlet-Jar-URL: HLibs.jar
 RIM-COD-URL: HLibs.cod
 RIM-Library-Flags: 2
-RIM-COD-SHA1: 44 bc 50 e3 70 b1 21 ea d6 8b 71 d3 14 d0 58 b7 d0 26 4a 28
-RIM-COD-Size: 4468
+RIM-COD-SHA1: 64 9b 46 01 e0 5c 9c fe f2 68 fe c0 09 b7 b9 f0 14 57 78 3a
+RIM-COD-Size: 4448
 MicroEdition-Configuration: CLDC-1.1
 MIDlet-Version: 0.0
 MIDlet-Name: HLibs
