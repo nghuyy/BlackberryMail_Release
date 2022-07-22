@@ -1,6 +1,6 @@
 # BlackberryMail_Release
 
-> 04/01/2022 RIM closed sign app server. I can't update app without sign, anymore. Still using version 1.0.42 forever.
+> Remove rim secure api
 
  
 OS5 version:
