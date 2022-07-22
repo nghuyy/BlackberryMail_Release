@@ -3,8 +3,8 @@
 > Remove rim secure api
 
  
-OS5 version:
+OS5 Low SDK:
 https://vnapps.com/BBOS/BlackberryMail_Release/OS5/Email.jad
 
-OS6 or 7:
+OS6 Hight SDK:
 https://vnapps.com/BBOS/BlackberryMail_Release/OS6/Email.jad
